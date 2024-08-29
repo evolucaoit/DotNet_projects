@@ -1,6 +1,6 @@
-# 🌟 DotNet Projects
+# 🌟 DotNet Projects AGO 2024 > 
 
-Bem-vindo ao meu repositório pessoal! Neste espaço, estou documentando minha jornada enquanto agrego **.NET Core** e **ASP.NET Core** à minha stack tecnológica, que já conta com 8 anos de experiência em **Python**. Após anos trabalhando com Python em projetos de **RPA** (Automação de Processos Robóticos), **APIs** e **Microserviços**, estou expandindo meu conhecimento e habilidades para incluir **.NET Core** e **ASP.NET Core**.
+Bem-vindo ao meu repositório de dot net core! Neste espaço, estou documentando minha jornada enquanto agrego **.NET Core** e **ASP.NET Core** à minha stack tecnológica, que já conta com 8 anos de experiência em **Python**. Após anos trabalhando com Python em projetos de **RPA** (Automação de Processos Robóticos), **APIs** e **Microserviços**, estou expandindo meu conhecimento e habilidades para incluir **.NET Core** e **ASP.NET Core**.
 
 ![1624470685588](https://github.com/user-attachments/assets/c6dd9d49-2002-4e75-b41e-3a3010177cef)
 
