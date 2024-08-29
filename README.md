@@ -2,11 +2,17 @@
 
 Bem-vindo ao meu repositório pessoal! Neste espaço, estou documentando minha jornada enquanto agrego **.NET Core** e **ASP.NET Core** à minha stack tecnológica, que já conta com 8 anos de experiência em **Python**. Após anos trabalhando com Python em projetos de **RPA** (Automação de Processos Robóticos), **APIs** e **Microserviços**, estou expandindo meu conhecimento e habilidades para incluir **.NET Core** e **ASP.NET Core**.
 
+![1624470685588](https://github.com/user-attachments/assets/c6dd9d49-2002-4e75-b41e-3a3010177cef)
+
+
+
 ## 🌟 Minha Jornada e Contexto Atual
 
 ### 🚀 **Evolução da Minha Carreira**
 
 Ao longo dos últimos 8 anos, dediquei-me intensamente ao desenvolvimento em **Python**, onde explorei e implementei soluções avançadas em diversas áreas, como **automação de processos robóticos (RPA)**, **criação de APIs**, e **desenvolvimento de microserviços**. Este período foi marcado por um profundo aprendizado e sucesso na construção de sistemas escaláveis e eficientes, com foco na automação e no aprimoramento contínuo.
+
+![0_T8JofJXLszu_2USl](https://github.com/user-attachments/assets/79db7ccf-23ba-4365-a162-4c6dbec7464d)
 
 Durante esses anos, adquiri uma sólida experiência na criação de **APIs RESTful**, **integração de sistemas**, e **gerenciamento de dados**. Trabalhei em projetos desafiadores que me permitiram desenvolver habilidades técnicas avançadas, utilizando bibliotecas e frameworks robustos para resolver problemas complexos e entregar soluções de alta qualidade.
 
